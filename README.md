@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**aguscolombo16/aguscolombo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mí
+Soy un **joven de 22 años** y actualmente soy estudiante de la **Tecnicatura en Programación** en la UTN (Universidad Tecnológica Nacional). Me apasiona el desarrollo de software y estoy constantemente aprendiendo nuevas tecnologías. ¡Me puedes encontrar creando soluciones con código!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y Herramientas 🛠️
+Aquí están algunas de las tecnologías con las que he trabajado o estoy aprendiendo:
+
+[![Mis Skills](https://skillicons.dev/icons?i=js,java,python,html,css,nodejs)](https://skillicons.dev)
+
+---
+
+### 📈 Mis Estadísticas en GitHub (Opcional)
+
+---
+
+### 📧 Contacto
+[https://www.linkedin.com/in/agust%C3%ADn-colombo-9611a522a/]
+[https://portafolio-agustin-colombo.vercel.app/)]
