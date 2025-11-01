@@ -12,10 +12,14 @@ Aquí están algunas de las tecnologías con las que he trabajado o estoy aprend
 
 ---
 
-### 📈 Mis Estadísticas en GitHub (Opcional)
+### 📧 Conéctate Conmigo
+
+| Plataforma | Insignia y Enlace |
+| :---: | :---: |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-colombo-9611a522a/) |
+| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=about.me&logoColor=white)](https://portafolio-agustin-colombo.vercel.app/) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aguscolombo16@gmail.com) |
 
 ---
 
-### 📧 Contacto
-[https://www.linkedin.com/in/agust%C3%ADn-colombo-9611a522a/]
-[https://portafolio-agustin-colombo.vercel.app/)]
+### 📈 Mis Estadísticas en GitHub (Opcional)
