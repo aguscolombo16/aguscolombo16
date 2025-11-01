@@ -1,6 +1,9 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=aguscolombo16&style=flat-square&color=blueviolet" alt = "Profile Views"/>
 </p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 # ¡Hola! Soy Agustín Colombo 👋
 
@@ -24,9 +27,6 @@ Aquí están algunas de las tecnologías con las que he trabajado o estoy aprend
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=about.me&logoColor=white)](https://portafolio-agustin-colombo.vercel.app/) |
 | **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguscolombo16@gmail.com) |
 
----
-
-### 📈 Mis Estadísticas en GitHub (Opcional)
 ---
 
 <div align="center">
